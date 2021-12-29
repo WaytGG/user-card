@@ -39,21 +39,16 @@ body {
 
 .avatar {
   display: block;
-
   min-height: 60px;
   max-height: 260px;
   height: 100%;
-
   min-width: 60px;
   max-width: 260px;
   width: 100%;
-
   border: 10px solid white;
   border-radius: 50%;
-
   object-position: top;
   object-fit: cover;
-
   margin-top: -50%;
 }
 
@@ -61,10 +56,6 @@ body {
   text-align: center;
   color:brown;
   font-size: 18px;
-}
-
-.car-about {
-
 }
 
 .about {
