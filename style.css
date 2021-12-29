@@ -14,10 +14,11 @@ body {
 .card-wrapper {
   margin: 5% auto;
   width: 50%;
-  height: 90%;
+  height: 85%;
   background-color: white;
   border: 1px solid hidden;
   border-radius: 30px;
+  overflow: auto;
 }
 
 .card-header {
@@ -83,5 +84,5 @@ body {
 }
 
 .link {
-    /* display: inline-block; */
+     
 }
